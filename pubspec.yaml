@@ -68,6 +68,8 @@ flutter:
     - assets/generations/generation6/
     - assets/generations/generation7/
     - assets/generations/generation8/
+    - assets/icons/
+    - assets/types/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
